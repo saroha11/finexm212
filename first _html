@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome</title>
+</head>
+<body bgcolor="cyan">
+
+  <h1><u><center>MOBILE OPERATING SYSTEMS</center></u></h1>
+  <center><img src="mob.jpeg" width=150px height=150px> </center>
+<table bgcolor="yellow" width=1300 height=50 border=1>
+    <tr>
+    <td><center><a href=""><B>HOME</B></a></center></td>
+    <td><center><a href=""><B>ANDROID OS</B></a></center></td>
+    <td><center><a href=""><B>BLACKBERRY OS</B></a></center></td>
+    <td><center><a href=""><B>iOS</B></a></center></td>
+    <td><center><a href=""><B>SYMBIAN OS</B></a></center></td>
+    <td><center><a href=""><B>WINDOWS PHONE</B></a></center></td>
+  </tr>
+</table>  
+<ol>
+  <li><b><u><h4>Android OS</h4></u></b></li>
+  The Android mobile operating system is Google's open and free software stack that includes an operating system, middleware and also key applications for use on mobile devices, including smartphones. Updates for the open source Android mobile operating system have been developed under "dessert-inspired" version names (Cupcake, Donut, Eclair, Gingerbread, Honeycomb, Ice Cream Sandwich) with each new version arriving in alphabetical order with new enhancements and improvements.
+  <br><br>
+  <li><b><u>Blackberry OS</u></b></li>
+  The BlackBerry OS is a proprietary mobile operating system developed by Research In Motion for use on the company’s popular BlackBerry handheld devices. The BlackBerry platform is popular with corporate users as it offers synchronization with Microsoft Exchange, Lotus Domino, Novell GroupWise email and other business software, when used with the BlackBerry Enterprise Server.
+  <br><br>
+  <li><b><u>iOS</u></b></li>
+  Apple's iPhone OS was originally developed for use on its iPhone devices. Now, the mobile operating system is referred to as iOS and is supported on a number of Apple devices including the iPhone, iPad, iPad 2 and iPod Touch. The iOS mobile operating system is available only on Apple's own manufactured devices as the company does not license the OS for third-party hardware. Apple iOS is derived from Apple's Mac OS X operating system.
+  <br><br>
+  <li><b><u>Symbian OS</u></b></li>
+  Symbian is a mobile operating system (OS) targeted at mobile phones that offers a high-level of integration with communication and personal information management (PIM) functionality. Symbian OS combines middleware with wireless communications through an integrated mailbox and the integration of Java and PIM functionality (agenda and contacts). Nokia has made the Symbian platform available under an alternative, open and direct model, to work with some OEMs and the small community of platform development collaborators. Nokia does not maintain Symbian as an open source development project.
+  <br><br>
+    <li><b><u>Windows OS</u></b></li>
+    Windows Mobile is Microsoft's mobile operating system used in smartphones and mobile devices – with or without touchscreens. The Mobile OS is based on the Windows CE 5.2 kernel. In 2010 Microsoft announced a new smartphone platform called Windows Phone 7.
+  
+  
+</ol>
+
+
+
+</body>
+</html>
